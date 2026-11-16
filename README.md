@@ -27,3 +27,5 @@ The local preview is not a production service.
 This demo shows how GitHub Actions checks the website and packages it as a downloadable artifact.
 
 this is new test for readme
+
+Documentation changes are reviewed on feature branches before they are merged into main.
